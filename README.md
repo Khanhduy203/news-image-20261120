@@ -11,7 +11,7 @@ Bounty page: https://make.fun/bounty/news-image-20261120
 ## Run it
 
 ```sh
-deno run --allow-read --allow-write --allow-env main.ts
+MAKEFUN_OUTPUT_DIR=/output node main.ts
 ```
 
 ---
